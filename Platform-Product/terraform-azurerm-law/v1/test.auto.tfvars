@@ -1,0 +1,11 @@
+app_code="mytax"
+# au="1"
+bu="se"
+env="dev"
+owner="lh"
+# product_version="1.0.0"
+base_name = "mytax"
+resource_group_name= "sea-dev-mytax-rg"
+retention_in_days = "30"
+sku = "PerNode"
+

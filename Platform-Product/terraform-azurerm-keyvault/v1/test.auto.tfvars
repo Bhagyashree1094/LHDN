@@ -1,0 +1,7 @@
+app_code="myinvois"
+# au="1"
+bu="se"
+env="dev"
+owner="lh"
+# product_version="1.0.0"
+resource_group_name="SEA-DEV-MYINVOIS-RG"
